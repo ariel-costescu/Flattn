@@ -1,0 +1,1 @@
+Flattens a file tree by prepending the parent path to all file names.
