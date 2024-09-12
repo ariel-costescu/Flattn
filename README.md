@@ -1,1 +1,1 @@
-Flattens a file tree by prepending the parent path to all file names.
+Flattens a file tree by prepending the hashed parent path to all file names contained in subfolders.
